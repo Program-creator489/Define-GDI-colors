@@ -1,3 +1,5 @@
+//#include <stdbool.h>
+
 typedef union _RGBQUAD {
     COLORREF rgb;
     struct {
